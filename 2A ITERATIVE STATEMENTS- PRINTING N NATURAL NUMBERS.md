@@ -30,10 +30,10 @@ for i in range(a,b+1):
 
 ```
 ### OUTPUT
-```
+
 ![image](https://github.com/user-attachments/assets/fafc6f71-85b2-45b7-81be-4e1c7235bce8)
 
-```
+
 ### RESULT
 ```
 Thus a a Python program to print numbers  range from M to N is done and executed.
